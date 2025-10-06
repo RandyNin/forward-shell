@@ -1,7 +1,7 @@
 
 # 🐚 Forward-Shell (Educational Project)
 
-Forward-Shell is an **educational pentesting tool** that allows simulating an **interactive shell** when you only have access to a simple **webshell**.  
+Forward-Shell is an **pentesting tool** that allows simulating an **interactive shell** when you only have access to a simple **webshell**.  
 It is especially useful in scenarios where a **firewall or egress restrictions** prevent you from opening a reverse shell connection.  
 
 Instead of being stuck with single-command execution, Forward-Shell uses **named pipes** and **base64-encoded commands** to simulate a pseudo-terminal, making interaction smoother.
